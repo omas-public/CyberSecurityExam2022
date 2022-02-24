@@ -115,7 +115,7 @@
 ## 問8 [自己評価]
 
 ```md
-<!--  ここに回答を記述 -->
+<!--  30 -->
 
 ```
 
@@ -124,12 +124,12 @@
 1.
 
 ```md
-<!--  ここに回答を記述 -->
+<!--   -->
 
 ```
 
 2.
 ```md
-<!--  ここに回答を記述 -->
+<!--  sensei ga kowakute amari situmon dekinakattanode hanseisitemasu  -->
 
 ```
